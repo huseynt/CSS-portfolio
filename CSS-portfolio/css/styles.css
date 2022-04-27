@@ -119,7 +119,7 @@ header:hover {
 
 /* Education ----------------------------------------*/
 .education {
-  background-image: url(./images/annie-spratt-unsplash.jpg);
+  background-image: url(annie-spratt-unsplash.jpg);
   background-size: cover;
   /* responsive view image */
   background-position: top right;
